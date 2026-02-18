@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">👋 Hey there, I’m Taha!</h1>
 <p align="center">
-  <em>Full Stack Developer from Tehran 🇮🇷</em>
+  <em>Full Stack Developer from Iran</em>
 </p>
 
 <!-- Badges -->
