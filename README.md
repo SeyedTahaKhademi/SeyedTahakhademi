@@ -45,7 +45,6 @@ Here are a few cool things I've built 👇
 - 🚀 **nodejs-webServer** – Basic web server implementation using Node.js.  
 - 🎮 **ischiGame** – Fun JavaScript game project.
 
-*(پروژه‌ها رو بهتر از این هم می‌تونی با لینک و توضیح بیشتر بسازی)*
 
 ---
 
