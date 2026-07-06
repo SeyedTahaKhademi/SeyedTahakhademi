@@ -1,71 +1,136 @@
-<!-- Header -->
-<h1 align="center">👋 Hey there, I’m Taha!</h1>
-<p align="center">
-  <em>Full Stack Developer from Iran</em>
-</p>
+<div align="center">
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/SeyedTahaKhademi">
-    <img src="https://img.shields.io/github/followers/SeyedTahaKhademi?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/🌱%20Learning-Distributed%20Systems-blue" alt="Learning" />
-  <img src="https://img.shields.io/badge/💬%20Ask%20me%20about-Python%2C%20JS%20%26%20backend-green" alt="Ask me about" />
-</p>
+# Hi 👋 I'm Seyed Taha Khademi
+
+### AI Developer • Flutter Developer • Open Source Enthusiast
+
+Building intelligent software that solves real-world problems.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Flutter+Developer;Python+Developer;Machine+Learning;Open+Source+Contributor" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=SeyedTahaKhademi\&style=flat-square\&color=blue)
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 👨‍💻 I’m a **Full Stack Developer** passionate about building web apps and learning modern technologies. :contentReference[oaicite:1]{index=1}  
-- 🌱 Currently exploring **Distributed Systems**, **Backend Architecture** & **APIs**.  
-- 💡 I like clean code, scalable projects & learning new stuff every day.
+
+I'm a software developer passionate about building intelligent applications powered by Artificial Intelligence.
+
+My primary interests include:
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 📱 Flutter Development
+* 🐍 Python Development
+* 🇮🇷 Persian NLP
+* 🌍 Open Source
+
+I enjoy transforming ideas into practical software, learning new technologies, and sharing knowledge with the developer community.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
+### Languages
 
-### ⚙ Tools & Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+
+### Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+
+### AI & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-34A853?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 🔭 Featured Projects
-Here are a few cool things I've built 👇
+## 🌱 Currently Learning
 
-- 🧩 **htmldashboard** – A personal dashboard UI with HTML & CSS.  
-- 📋 **javaScriptToDoList** – A simple task-list app built with JS.  
-- 🚀 **nodejs-webServer** – Basic web server implementation using Node.js.  
-- 🎮 **ischiGame** – Fun JavaScript game project.
+* Large Language Models (LLMs)
+* AI Agents
+* Retrieval-Augmented Generation (RAG)
+* Deep Learning
+* Advanced Flutter Architecture
 
+---
+
+## 📌 Current Focus
+
+* 🤖 Building AI-powered applications
+* 📚 Creating high-quality Persian AI datasets
+* 🌍 Contributing to open-source projects
+* 🚀 Learning modern AI technologies
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeyedTahaKhademi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyedTahaKhademi&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SeyedTahaKhademi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyedTahaKhademi&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💬 Let’s Connect
+## 🔥 GitHub Streak
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/seyed-taha-khademi-9a4b19334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-Taha-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://hooshamoozan.ir/">
-    <img src="https://img.shields.io/badge/Website-hooshamoozan.ir-black?logo=google-chrome" alt="Website" />
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=SeyedTahaKhademi&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-<p align="center">Thanks for stopping by! 👋</p>
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SeyedTahaKhademi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SeyedTahaKhademi&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+---
+
+## 💬 Quote
+
+> "Great software starts with curiosity, grows with discipline, and creates impact through consistency."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐
+
+</div>
