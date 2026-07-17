@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Seyed Taha Khademi
 
-### AI Developer • Flutter Developer • Open Source Enthusiast
+### AI Developer • android Developer • full stack web developer • Open Source Enthusiast
 
 Building intelligent software that solves real-world problems.
 
